@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler
 
 def start(update, context):
-    update.message.reply_text('سڵاو! من بۆتەکەم کاردەکات.')
+    update.message.reply_text(!سڵاو! من بۆتەکەم کاردەککات.')
 
 def main():
     # لێرە تۆکێنەکەت دادەنێین
